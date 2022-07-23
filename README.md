@@ -4,7 +4,7 @@ WhatsApp Bot (Base)
 
 
 <p align="center">
-<img src="https://images.app.goo.gl/sBpwSfALhDKWvCWu8" alt="animated"  />
+<img src="https://images.app.goo.gl/sBpwSfALhDKWvCWu8" alt="MR_JOHAN"  />
 </p>
 
 
