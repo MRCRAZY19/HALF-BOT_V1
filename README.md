@@ -1,4 +1,4 @@
-## HALF BOT 
+## `HALF BOT`
 WhatsApp Bot (Base)
 
 
