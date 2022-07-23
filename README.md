@@ -35,7 +35,7 @@ Click here to create your own fork [FORK](https://github.com/MRCRAZY19/HALF-BOT_
 
 Create a heroku account, then go to the AddOns page and add Heroku Postgres.
 
-<br>
+
 
 `OR`
 
