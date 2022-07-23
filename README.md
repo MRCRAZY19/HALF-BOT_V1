@@ -14,7 +14,7 @@ Create a heroku account, then go to the AddOns page and add Heroku Postgres.
 
 # `Deploy In Heroku`
 
-<a href="https://heroku.com/deploy?template=https://github.com/MRCRAZY19/neoxrptch"><img title="𝗠𝙍 𝗬𝗢𝗨𝗖𝗛𝗡" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/MRCRAZY19/HALF-BOT_V1"><img title="𝗠𝙍 𝗬𝗢𝗨𝗖𝗛𝗡" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
     
 
 
