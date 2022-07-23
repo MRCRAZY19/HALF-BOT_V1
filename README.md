@@ -1,8 +1,8 @@
 ## `HALF BOT`
 WhatsApp Bot (Base)
 
-## `FORK FROM HERE`
-Click here to create your own fork[FORK](https://github.com/MRCRAZY19/HALF-BOT_V1/fork)
+## `1. FORK FROM HERE`
+Click here to create your own fork [FORK](https://github.com/MRCRAZY19/HALF-BOT_V1/fork)
 
 <p align="center">
 <img src="https://i.postimg.cc/KvdG23Mf/johan.png" alt="MR_JOHAN"  />
@@ -11,7 +11,7 @@ Click here to create your own fork[FORK](https://github.com/MRCRAZY19/HALF-BOT_V
 
 
 
-# `SCAN QR CODE FOR SESSION`
+# `2. SCAN QR CODE FOR SESSION`
 <br>
  
 <a href="https://replit.com/@MRYOUCHN/TheMonster?v=1"><img title="𝗠𝙍 𝗬𝗢𝗨𝗖𝗛𝗡" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
@@ -22,7 +22,7 @@ Click here to create your own fork[FORK](https://github.com/MRCRAZY19/HALF-BOT_V
 
 
 
-# `DEPLOY IN HEROKU`
+# `3. DEPLOY IN HEROKU`
 <br>
 
 <a href="https://heroku.com/deploy?template=https://github.com/MRCRAZY19/HALF-BOT_V1"><img title="𝗠𝙍 𝗬𝗢𝗨𝗖𝗛𝗡" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
@@ -31,7 +31,7 @@ Click here to create your own fork[FORK](https://github.com/MRCRAZY19/HALF-BOT_V
 
 
 
-### `DATABASE SETUP`
+### `4. DATABASE SETUP`
 
 Create a heroku account, then go to the AddOns page and add Heroku Postgres.
 
