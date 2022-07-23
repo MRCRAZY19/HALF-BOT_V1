@@ -5,51 +5,25 @@
       isPrefix
    }) => {
       let rows = [{
-         title: 'HELP',
+         title: 'ALL COMMANDS',
          rowId: `${isPrefix}menutype 1`,
-         description: ``
+         description: `𝗠𝙍 𝗬𝗢𝗨𝗖𝗛𝗡`
       }, {
-         title: 'GROUP-MENU',
+         title: 'GROUP TOOLS',
          rowId: `${isPrefix}menutype 2`,
-         description: ``
+         description: `𝗠𝙍 𝗬𝗢𝗨𝗖𝗛𝗡`
       }, {
-         title: 'DOWNLOAD-MENU',
+         title: 'UTILITIES',
          rowId: `${isPrefix}menutype 3`,
-         description: ``
+         description: `𝗠𝙍 𝗬𝗢𝗨𝗖𝗛𝗡`
       }, {
-         title: 'SEARCH-MENU',
+         title: 'OWNER TOOLS',
          rowId: `${isPrefix}menutype 4`,
-         description: ``
-         }, {
-         title: 'STICKERS-MENU',
-         rowId: `${isPrefix}menutype 5`,
-         description: ``
-         }, {
-         title: 'INTERNET-MENU',
-         rowId: `${isPrefix}menutype 6`,
-         description: ``
-         }, {
-         title: 'ANIME-MENU',
-         rowId: `${isPrefix}menutype 7`,
-         description: ``
-         }, {
-         title: 'IMAGE-MENU',
-         rowId: `${isPrefix}menutype 8`,
-         description: ``
-         }, {
-         title: 'AUDIO-MENU',
-         rowId: `${isPrefix}menutype 9`,
-         description: ``
-         }, {
-         title: 'TOOLS-MENU',
-         rowId: `${isPrefix}menutype 10`,
-         description: ``
+         description: `𝗠𝙍 𝗬𝗢𝗨𝗖𝗛𝗡`
       }]
-      let text = '𝗛𝗔𝗟𝗙 𝗕𝗢𝗧\n'
-      text += '𝙱𝚈\n'
-      text += '𝗠𝗥 𝗬𝗢𝗨𝗖𝗛𝗡\n'
-      text += '◦ *instagram* : http://instagram.com/mr_johan_shezir\n'
-      text += '◦ *facebook* : https://www.facebook.com/profile.php?id=100027327995013'
+      let text = '𝗠𝙍 𝗬𝗢𝗨𝗖𝗛𝗡.\n\n'
+      text += '◦ *instagram* : http://instagram.com/mr_johan_shezir *(v2.2.0)*\n\n'
+      text += 'Ela konto talib/tilmid, Sift Lya *#bac*'
       await client.sendList(m.chat, '', text, '', 'click!', [{
          rows
       }], m)
