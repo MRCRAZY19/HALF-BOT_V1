@@ -32,8 +32,9 @@ Create a heroku account, then go to the AddOns page and add Heroku Postgres.
 
 
 
-
-
+<p align="center">
+<img src="https://i.postimg.cc/B6KWNMhG/johan-liebert.png" alt="MR_JOHAN"  />
+</p>
 
 
 
