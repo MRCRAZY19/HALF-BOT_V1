@@ -24,7 +24,7 @@ Create a heroku account, then go to the AddOns page and add Heroku Postgres.
 
 
 
-## License
+## To contact the developer
 my Instagram: https://Instagram.com/mr_johan_shezir                                             
 
 my Instagram: https://wa.me/+212689349938
