@@ -5,19 +5,24 @@ WhatsApp Bot (Base)
 
 Create a heroku account, then go to the AddOns page and add Heroku Postgres.
 
-### Installation
+# `Scan QR Code For Session`
+ 
+<a href="https://replit.com/@MRYOUCHN/TheMonster?v=1"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
+  <br><br><br>
 
-```
-$ git clone https://github.com/neoxr/neoxr-bot
-```
 
-And then go into the folder and type this on your console.
-```
-$ npm i
-$ node . <session_name>
-```
 
-<p align="center"><img src="https://profile-counter.glitch.me/{neoxr}/count.svg" alt="neoxr :: Visitor's Count" /></p>
+# `Deploy In Heroku`
+
+<a href="https://heroku.com/deploy?template=https://github.com/MRCRAZY19/neoxrptch"><img title="𝗠𝙍 𝗬𝗢𝗨𝗖𝗛𝗡" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
+    
+
+
+
+
+
+
+
 
 ## License
 my Instagram: https://Instagram.com/mr_johan_shezir                                             
