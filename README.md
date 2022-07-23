@@ -20,9 +20,11 @@ Click here to create your own fork [FORK](https://github.com/MRCRAZY19/HALF-BOT_
 <img src="https://i.postimg.cc/B6KWNMhG/johan-liebert.png" alt="MR_JOHAN"  />
 </p>
 
-# `3. add session`
+# `3. ADD SESSION`
 <br>
 add session Which will reach you on WhatsApp when you scan the code QR upstairs [Upload files]
+<br><br><br>
+
 # `4. DEPLOY IN HEROKU`
 <br>
 
