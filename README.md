@@ -4,7 +4,7 @@ WhatsApp Bot (Base)
 
 <p align="center">
 
-<img src="https://i.imgur.com/LbmTdhf.gif" alt="animated"  />
+<img src="https://images.app.goo.gl/uewxVcbqfkvTN4rB6" alt="animated"  />
 
 ### Database Setup
 
@@ -13,7 +13,7 @@ Create a heroku account, then go to the AddOns page and add Heroku Postgres.
 # `Scan QR Code For Session`
 <br>
  
-<a href="https://replit.com/@MRYOUCHN/TheMonster?v=1"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
+<a href="https://replit.com/@MRYOUCHN/TheMonster?v=1"><img title="𝗠𝙍 𝗬𝗢𝗨𝗖𝗛𝗡" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
   <br><br><br>
 
 
