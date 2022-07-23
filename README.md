@@ -18,6 +18,9 @@ Create a heroku account, then go to the AddOns page and add Heroku Postgres.
  
 <a href="https://replit.com/@MRYOUCHN/TheMonster?v=1"><img title="𝗠𝙍 𝗬𝗢𝗨𝗖𝗛𝗡" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
   <br><br><br>
+<p align="center">
+<img src="https://i.postimg.cc/B6KWNMhG/johan-liebert.png" alt="MR_JOHAN"  />
+</p>
 
 
 
@@ -32,9 +35,6 @@ Create a heroku account, then go to the AddOns page and add Heroku Postgres.
 
 
 
-<p align="center">
-<img src="https://i.postimg.cc/B6KWNMhG/johan-liebert.png" alt="MR_JOHAN"  />
-</p>
 
 
 
