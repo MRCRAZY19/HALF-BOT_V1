@@ -4,7 +4,7 @@ WhatsApp Bot (Base)
 
 <p align="center">
 
-<img src="https://images.app.goo.gl/jUVpM73tXG4zvQJq8" alt="animated"  />
+<img src="https://images.app.goo.gl/jUVpM73tXG4zvQJq8" alt="png"  />
 
 ### Database Setup
 
