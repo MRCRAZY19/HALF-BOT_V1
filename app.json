@@ -1,0 +1,18 @@
+{
+  "name": "MultiverseBot-MD",
+  "description": "Astronómico Bot",
+  "repository": "https://github.com/MRCRAZY19/neoxrptch",
+  "logo": "https://i.imgur.com/PlyUHYP.jpeg",
+  "keywords": ["bot", "whatsapp", "multi-device", "whatsapp-bot"],
+  "buildpacks": [
+  {
+    "url": "heroku/nodejs"
+  },
+  {
+    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+  },
+  {
+    "url": "https://github.com/yespark/heroku-imagemagick-buildpack"
+  }  
+ ]
+}
