@@ -9,9 +9,6 @@ WhatsApp Bot (Base)
 
 
 
-### Database Setup
-
-Create a heroku account, then go to the AddOns page and add Heroku Postgres.
 
 # `Scan QR Code For Session`
 <br>
@@ -33,7 +30,9 @@ Create a heroku account, then go to the AddOns page and add Heroku Postgres.
 
 
 
+### Database Setup
 
+Create a heroku account, then go to the AddOns page and add Heroku Postgres.
 
 
 
