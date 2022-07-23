@@ -1,4 +1,4 @@
-## neoxr-bot
+## HALF BOT 
 WhatsApp Bot (Base)
 
 ### Database Setup
