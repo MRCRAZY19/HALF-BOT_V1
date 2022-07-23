@@ -3,7 +3,7 @@ WhatsApp Bot (Base)
 </p>
 
 
-<p align="center"><img src="https://github.com/MRCRAZY19/HALF-BOT_V1" alt="neoxr :: Visitor's Count" /></p>
+<p align="center"><img src="https://github.com/MRCRAZY19/HALF-BOT_V1" alt="Visitor's Count" /></p>
 
 
 
