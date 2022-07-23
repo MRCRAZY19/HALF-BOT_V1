@@ -2,7 +2,7 @@
 WhatsApp Bot (Base)
 
 ## `FORK FROM HERE`
-4. Click [FORK](https://github.com/lyfe00011/whatsapp-bot-md/fork)
+Click here to create your own fork[FORK](https://github.com/MRCRAZY19/HALF-BOT_V1/fork)
 
 <p align="center">
 <img src="https://i.postimg.cc/KvdG23Mf/johan.png" alt="MR_JOHAN"  />
@@ -11,7 +11,7 @@ WhatsApp Bot (Base)
 
 
 
-# `Scan QR Code For Session`
+# `SCAN QR CODE FOR SESSION`
 <br>
  
 <a href="https://replit.com/@MRYOUCHN/TheMonster?v=1"><img title="𝗠𝙍 𝗬𝗢𝗨𝗖𝗛𝗡" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
@@ -22,7 +22,7 @@ WhatsApp Bot (Base)
 
 
 
-# `Deploy In Heroku`
+# `DEPLOY IN HEROKU`
 <br>
 
 <a href="https://heroku.com/deploy?template=https://github.com/MRCRAZY19/HALF-BOT_V1"><img title="𝗠𝙍 𝗬𝗢𝗨𝗖𝗛𝗡" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
@@ -31,7 +31,7 @@ WhatsApp Bot (Base)
 
 
 
-### Database Setup
+### `DATABASE SETUP`
 
 Create a heroku account, then go to the AddOns page and add Heroku Postgres.
 
@@ -40,7 +40,7 @@ Create a heroku account, then go to the AddOns page and add Heroku Postgres.
 
 
 
-## `To contact the developer`
+## `TO CONTACT THE DEVELOPER`
 my Instagram: https://Instagram.com/mr_johan_shezir                                             
 
 my Instagram: https://wa.me/+212689349938
