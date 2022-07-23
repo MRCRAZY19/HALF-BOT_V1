@@ -1,7 +1,8 @@
 ## `HALF BOT`
 WhatsApp Bot (Base)
 
-
+## `FORK FROM HERE`
+4. Click [FORK](https://github.com/lyfe00011/whatsapp-bot-md/fork)
 
 <p align="center">
 <img src="https://i.postimg.cc/KvdG23Mf/johan.png" alt="MR_JOHAN"  />
