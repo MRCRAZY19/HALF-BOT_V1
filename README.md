@@ -1,5 +1,10 @@
 ## HALF BOT 
 WhatsApp Bot (Base)
+</p>
+
+<p align="center">
+
+<img src="https://i.imgur.com/LbmTdhf.gif" alt="animated"  />
 
 ### Database Setup
 
