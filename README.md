@@ -2,9 +2,10 @@
 WhatsApp Bot (Base)
 </p>
 
-<p align="center">
 
-<img src="https://images.app.goo.gl/jUVpM73tXG4zvQJq8" alt="png"  />
+<p align="center"><img src="https://github.com/MRCRAZY19/HALF-BOT_V1" alt="neoxr :: Visitor's Count" /></p>
+
+
 
 ### Database Setup
 
