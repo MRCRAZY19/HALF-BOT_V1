@@ -20,5 +20,6 @@ $ node . <session_name>
 <p align="center"><img src="https://profile-counter.glitch.me/{neoxr}/count.svg" alt="neoxr :: Visitor's Count" /></p>
 
 ## License
-my Instagram: 'https://Instagram.com/mr_johan_shezir\n'
-my Instagram: 'https://wa.me/+212689349938'
+my Instagram: https://Instagram.com/mr_johan_shezir                                             
+
+my Instagram: https://wa.me/+212689349938
