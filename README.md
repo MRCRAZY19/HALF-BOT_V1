@@ -46,7 +46,7 @@ Create a heroku account, then go to the AddOns page and add Heroku Postgres.
 Go to the following link [Heroku Postgres](https://dashboard.heroku.com/provision-addon?addonServiceId=6c67493d-8fc2-4cd4-9161-4f1ec11cbe69&planId=062a1cc7-f79f-404c-9f91-135f70175577) and choose app who created it and Add Heroku Postgres.
 <br><br><br>
 
-## `TO CONTACT THE DEVELOPER`
+### `TO CONTACT THE DEVELOPER`
 my Instagram: https://Instagram.com/mr_johan_shezir                                             
 
 my Instagram: https://wa.me/+212689349938
