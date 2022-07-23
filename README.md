@@ -1,6 +1,6 @@
 ## HALF BOT 
 WhatsApp Bot (Base)
-</p>
+
 
 
 <p align="center"><img src="https://images.app.goo.gl/sBpwSfALhDKWvCWu8" alt="Visitor's Count" /></p>
