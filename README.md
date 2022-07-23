@@ -34,7 +34,7 @@ Click here to create your own fork [FORK](https://github.com/MRCRAZY19/HALF-BOT_
 ### `4. DATABASE SETUP`
 
 Create a heroku account, then go to the AddOns page and add Heroku Postgres.
-<br><br>
+<br><br><br>
 
 
 
